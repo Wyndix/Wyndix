@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Wyndix
-- 👀 I’m interested in taking my own life
-- 🌱 I’m currently learning how to hang myself
-- 💞️ I’m looking to collaborate on Antinatalism
-- 📫 How to reach me (as long as you help me to die) \[matrix]: @wyndix:envs.net
+I enjoy Rust and Linux, that's it. Byeeee :p
 
 <!---
 Wyndix/Wyndix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
